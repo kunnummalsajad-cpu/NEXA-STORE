@@ -24,7 +24,7 @@ export default {
         )
         .addBooleanOption(option =>
             option
-                .setName("Nexa Managment")
+                .setName("nexa")
                 .setDescription("Send the message anonymously (default: false)")
                 .setRequired(false)
         )
